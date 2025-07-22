@@ -7,6 +7,7 @@ I'm a final-year student passionate about Web Development, AI,Python and SQL.
 - [Excel-Based Sales Dashboard](https://github.com/subashini2010/Sales-Dashboard) - Excel dashboard for visualizing sales data and trends.
 - [PDF Summarization And Voice Readout](https://github.com/subashini2010/Mini-project) - PDF Summarization and voice readout using NLP.Developed a tool to summarize lengthy PDF using Python and NLP.
 - [Student Management System](https://github.com/subashini2010/IUSD-Project)- Developed a Student Management System as a self-initiated project to practice and apply core concepts of programming and databases. The application allows users to Insert, Update,Select and Delete (IUSD) student records efficiently.
+- [HR EMPLOYEE ATTRITION DASHBOARD](https://github.com/subashini2010/Power-Bi/tree/main) power bi dashboard using the employee datas.
   
  🛠 Skills
 - Python, HTML, CSS, JavaScript
